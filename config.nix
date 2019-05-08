@@ -1,0 +1,1 @@
+/home/avritt/.config/nixpkgs/config.nix
