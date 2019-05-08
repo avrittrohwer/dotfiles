@@ -1,1 +1,3 @@
-/home/avritt/.config/nixpkgs/config.nix
+{
+  allowUnfree = true;
+}
