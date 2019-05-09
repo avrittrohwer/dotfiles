@@ -62,7 +62,7 @@
         };
         window = {
           decorations = "none";
-          padding = { x = 0; y = 0; };
+          padding = { x = 2; y = 0; };
         };
         tabspaces = 2;
         font =
